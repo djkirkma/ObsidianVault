@@ -1,0 +1,1 @@
+Aster is a member of the [[Founding Gods]], and thought to be the God of Evil.  They are an enemy of [[Serna]] and work only to destroy them.  
