@@ -1,1 +1,0 @@
-Serna is the God of Good, and is thought to be the enemy of [[Aster]].  They work to better the lives of all living creatures.

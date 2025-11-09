@@ -1,1 +1,0 @@
-Varant is the game world.  

@@ -1,1 +1,0 @@
-Entropy is the God of Magic
