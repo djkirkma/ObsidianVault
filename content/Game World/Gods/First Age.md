@@ -1,0 +1,1 @@
+The first Age occurred between Year 0 and 500. 
