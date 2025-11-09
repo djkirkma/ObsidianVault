@@ -9,7 +9,7 @@
 > With what little they can spare, the dwarves send messengers to the surface to call for aid.  Those who leave find themselves lost - the tunnels to the surface have shifted, as if the world itself twists and turns down paths to slow them.  The most experienced finally reach the surface and see what is impossible.  Where they expect to see the jagged rocks of the mountain there is only long green grasslands.
 
 ### Truths of this Campaign
-1. This campaign takes place on a different world than Ferun, but on a new world named **[[Varant]]**.  I have purposefully decided to tell you as little as possible about this world, so you you can discover it for yourself.    
+1. This campaign takes place on a different world than Ferun, but on a new world named **[[Game World/Varant]]**.  I have purposefully decided to tell you as little as possible about this world, so you you can discover it for yourself.    
 2. This campaign will be darker and more difficult.  While a total party wipe is unlikely, please be prepared for your character to die in a bad situation. 
 3. This campaign focuses heavily on puzzle solving, with some puzzles designed to be solved on your own time.  These puzzles are not required to progress the story, and 
 4. I have changed my narrative storytelling to rely heavily upon the theme of unreliable narrators.  Be aware that some writers are lying, biased, or wrong in their accountings of history.  It will be up to you to determine the truth for yourself.
