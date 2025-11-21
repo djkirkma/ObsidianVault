@@ -1,9 +1,7 @@
 ---
-aat-event-start-date: 5
-aat-event-end-date: 10
-aat-render-enabled: true 
-timelines: [main] 
+{"publish":true,"created":"2025-11-21T14:38:20.152-05:00","modified":"2025-11-21T14:38:20.152-05:00","cssclasses":""}
 ---
+
 
 [Apamea] fell to a small invasion during Year 400.  Rather than fall into ruin, documents suggest that the great golden age of Apamea began after the end of this invasion with great strides in creation of tools for farming and the herding of cattle and sheep.
 

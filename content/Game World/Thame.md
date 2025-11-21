@@ -1,4 +1,4 @@
-Thame was a great human city in the nation of the [[Old Empire]].  
+Thame was a great human city in the nation of the [[Game World/Old Empire]].  
 
 ## Government 
 Thame was ruled by a council of important members of the city (Lords, Religious Leaders, Heads of commerce, etc.).  The members were appointed by council vote, and the council made all decisions about matters.

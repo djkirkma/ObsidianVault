@@ -1,7 +1,7 @@
 ## Magic System
 
 #### Based on Glyph
-Before [[Glyph]], magic was impossible for mortal beings.  The magic now used today is passed down mostly with books or verbal tradition thought to derive from the power that Glyph created for humans.  Cantrips are more common knowledge, but more advanced spells are guarded secrets.    
+Before [[Game World/Gods/Glyph]], magic was impossible for mortal beings.  The magic now used today is passed down mostly with books or verbal tradition thought to derive from the power that Glyph created for humans.  Cantrips are more common knowledge, but more advanced spells are guarded secrets.    
 
 #### Rare!
 Magic is rare, with about 1% of the population thought to have the ability.  While anyone can use glyphs, the ability to cast a spell requires both the innate magical ability and the vocal components.  The vocal components in particular are not common.  Most parties of adventures rely heavily upon [[glyphed items]] rather than one with a magic caster.
@@ -46,4 +46,4 @@ Generally, people are referred to as their name and their rank.[^1]
 | Seraphim     | ~200 confirmed users | 16-18     |
 | Nephilim     | ~5 unconfirmed       | 19-20     |
 
-[^1]: Example: [[Venerated Alma]]
+[^1]: Example: [[Characters/NPCS/Venerated Alma]]

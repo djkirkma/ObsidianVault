@@ -1,1 +1,1 @@
-![[Page 1.pdf]]
+![[Game World/Pages/Page 1.pdf]]
