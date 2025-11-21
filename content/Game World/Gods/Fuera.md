@@ -1,0 +1,1 @@
+Fuera is the god of life and death.

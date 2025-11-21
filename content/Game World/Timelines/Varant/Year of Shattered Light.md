@@ -1,7 +1,9 @@
 ---
-{"publish":true,"created":"2025-11-09T15:34:55.510-05:00","modified":"2025-11-04T02:18:10.987-05:00","cssclasses":""}
+aat-event-start-date: 1000
+aat-render-enabled: true 
+timelines: [main] 
+aat-event-body: The Beginning of OOTA2
 ---
-
 
 The Year of Shattered Light is an event that occurs in Year 1000 directly after the events of Out of The Abyss.  
 
@@ -17,4 +19,4 @@ The Year of Shattered Light is an event that occurs in Year 1000 directly after 
 > With what little they can spare, the dwarves send messengers to the surface to call for aid. Those who leave find themselves lost - the tunnels to the surface have shifted, as if the world itself twists and turns down paths to slow them. The most experienced finally reach the surface and see what is impossible. 
 > 
 > Where they expect to see the jagged rocks of the mountain of Mount Hotenow, there is now only rolling green grasslands."
-> ![[Attachments/da97f5bc-006a-47be-96a5-90b540b060d3 1.png]]
+> ![[da97f5bc-006a-47be-96a5-90b540b060d3 1.png]]

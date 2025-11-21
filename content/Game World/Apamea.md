@@ -3,4 +3,4 @@ Apamea was a city-nation of human origin that existed from 300-400 (Later rename
 
 
 See also:
-[[Game World/Timelines/Varant/The Fall of Apamea]]
+[[The Fall of Apamea]]

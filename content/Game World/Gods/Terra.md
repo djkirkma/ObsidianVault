@@ -1,1 +1,1 @@
-Terra is thought to be the creator and maintainer of the physical world of [[Game World/Varant]].  
+Terra is thought to be the creator and maintainer of the physical world of [[Varant]].  

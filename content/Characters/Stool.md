@@ -1,2 +1,2 @@
-A myconid sprout (juvenile) originating from [[Neverlight Grove]], notable for its extreme curiosity, fear, and dependency on its rescuers.  He was a member of [[Characters/The Five]]
-![[Attachments/Pasted image 20251102191110.png]]
+A myconid sprout (juvenile) originating from [[Neverlight Grove]], notable for its extreme curiosity, fear, and dependency on its rescuers.  He was a member of [[The Five]]
+![[Pasted image 20251102191110.png]]

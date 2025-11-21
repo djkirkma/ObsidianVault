@@ -32,11 +32,11 @@
   <script>
     // Load a flat image as a map
     // Replace this with your fantasy map image
-    const imageUrl = "https://upload.wikimedia.org/wikipedia/commons/3/3c/BlankMap-World-v2.png";
+    const imageUrl = "hewe.jpg"
 
     // Image size (in pixels)
-    const imageWidth = 3000;
-    const imageHeight = 1500;
+    const imageWidth = 2048;
+    const imageHeight = 1536;
 
     // Coordinate bounds for the image
     const mapBounds = [[0, 0], [imageHeight, imageWidth]];
@@ -54,9 +54,9 @@
 
     // Example markers
     const cities = [
-      { name: "Eldoria", coords: [700, 1200], desc: "The capital of the human realm." },
-      { name: "Duskvale", coords: [900, 500], desc: "A cursed valley shrouded in eternal twilight." },
-      { name: "Stormpeak", coords: [300, 2200], desc: "Home of the mountain clans." }
+      { name: "Eldoria", coords: [700, 200], desc: "The capital of the human realm." },
+      { name: "Duskvale", coords: [900, 100], desc: "A cursed valley shrouded in eternal twilight." },
+      { name: "Stormpeak", coords: [300, 200], desc: "Home of the mountain clans." }
     ];
 
     cities.forEach(city => {
@@ -66,9 +66,9 @@
 
     // Example labels (these don't open, just text overlays)
     const labels = [
-      { name: "The Frostlands", coords: [300, 1500] },
-      { name: "Emerald Coast", coords: [1200, 400] },
-      { name: "Ashen Wastes", coords: [1000, 2300] }
+      { name: "The Frostlands", coords: [300, 300] },
+      { name: "Emerald Coast", coords: [300, 400] },
+      { name: "Ashen Wastes", coords: [300, 100] }
     ];
 
     labels.forEach(label => {

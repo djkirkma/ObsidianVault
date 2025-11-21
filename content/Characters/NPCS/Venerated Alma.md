@@ -1,0 +1,1 @@
+Alma is a human cleric, leader of [[Hewe]].  
