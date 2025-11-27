@@ -1,9 +1,4 @@
----
-{"publish":true,"created":"2025-11-21T14:38:20.152-05:00","modified":"2025-11-21T14:38:20.152-05:00","cssclasses":""}
----
-
-
-The Year of Shattered Light is an event that occurs in Year 1000 directly after the events of Out of The Abyss.  
+The Year of Shattered Light is an event that occurs in Year 1215 of [[Varant]] (1485 DR [[Game World/Locations/Faerun]]) and directly after the events of Out of The Abyss.  
 
 ### *Introduction*
 > "In the year 1485 DR, five prisoners reached the surface victorious. They spoke of what they had seen—a demonic uprising and twisting of reality that surprised even those familiar with the evil underdark world. They descended again at the summons of King Bruenor Battlehammer, but were not so lucky to surface a second time. Before their journey ended, some were able to send a message to the surface: One final warning of a great calamity to come. 

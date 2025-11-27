@@ -1,7 +1,7 @@
 There are major rule change to the way D&D works in OOTA2, mostly in the from lightly stealing from Daggerheart for better roleplay purposes.
 
 # No Initiative
-Players can now choose turn order themselves.  This order can change between rounds.
+Players can now choose turn order themselves at the start of combat.
 
 # Fear and Hope
 The DM may randomly call on certain key roles as "Fear and Hope" rolls during critical moments.  When this occurs, the player rolls their d10 (Hope) against the DM's d10 (Fear).  
@@ -30,7 +30,7 @@ Hope has a maximum of 6 per player.  It can be used in the following ways:
 
 
 ## Fear Rules
-Fear has a maximum of 12.  It will always be shown to the players.  It can be used in the following ways:
+Fear has a maximum of 10.  It will always be shown to the players.  It can be used in the following ways:
 
 **Keep in mind that fear events can only occur after someone rolls FEAR**
 

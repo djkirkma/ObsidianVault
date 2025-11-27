@@ -1,0 +1,1 @@
+Faerun is a world that merged part of it's world (specifically, the underdark) with the world of [[Varant]] sometime before the [[Game World/Timelines/Varant/Year of Shattered Light]].  From the perspective of Varant, not much is known about the world.

@@ -1,0 +1,1 @@
+The mind library is an ancient library in the control of the high elves of [[Game World/Locations/Ilt]].  It contains an extreme amount of information about the world and history.  It is controlled by followers of  [[Game World/Gods/Veridia]].  

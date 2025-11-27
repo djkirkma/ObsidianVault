@@ -1,11 +1,9 @@
-Glyph is a member of the [[Game World/Gods/First Age Gods]] and responsible for the creation of [[Game World/Gods/Glyph]] symbols.
-
+Glyph is a member of the [[Game World/Gods/First Age Gods]].  During the [[Game World/Timelines/Varant/First Age]] they created the glyphic symbols for humans.  Later, other races adapted this technology to a lesser degree.
 
 ## History
-Glyph is known to have been a human. At some point during the First Age, they ascended to Godhood and became the first member of the [[Game World/Gods/First Age Gods]].  They were known to have worshiped [[Game World/Gods/Entropy]] and [[Game World/Gods/Terra]], but sought to create magic that could be used not just by Gods but all humans.  They successfully created the [[Game World/Gods/Glyph]] symbols for this purpose.
+Glyph was a human man from the nation of [[Game World/Locations/Thetia]] and ascended to Godhood and became the first member of the [[Game World/Gods/First Age Gods]] the beginning of the First Age.  Before his ascension, most magic was not possible by the human race, and primarily was the domain of higher born races (particularly high elves). They sought to create a system for humans to use the power of magic for themselves.  
 
-Their ascension to godhood brought about a period of invention and discovery of magic, but later with the influence of [[Game World/Gods/The God of Fear]] led to an age of glyphic weapons being developed for use by humans against other races.  Glyphs were a closely guarded secret by humans, and feared that other races would use the power against them.  Later, other races learned to wield weapons utilizing Glyphs. 
+Their ascension to godhood brought about a period of invention and discovery of magic for the human race.  Glyph lead the war between [[Game World/Locations/Thetia]] and [[Game World/Locations/Ilt]]. 
 
-
-## Powers
-Glyph is the most powerful and feared user of [[Glyphs]], and used their power to become the first member of the [[Game World/Gods/First Age Gods]].  They were unable to create magical weapons of greater power than [[Game World/Gods/Entropy]], but created the first constructs and later glyphic weapons that could be used by any human.   
+## Godhood
+Glyph is thought to have used secret designs to gain enough power to rival the [[Game World/Gods/Founding Gods]].  One of designs included a glyph to create immortality for himself.

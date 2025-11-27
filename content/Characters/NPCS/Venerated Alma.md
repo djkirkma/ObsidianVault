@@ -1,1 +1,1 @@
-Alma is a human cleric, leader of [[Characters/NPCS/Hewe]].  
+Alma is a human cleric, leader of the inquisition in [[Game World/Locations/Hewe]].  
